@@ -1,4 +1,4 @@
 CellMLmetadraft
 ===============
 
-CellML metadata draft specification
+CellML metadata draft specification by Mike Cooling
