@@ -7,20 +7,16 @@ CellML Basic Model Information Metadata Specification 2.0
 June 2011
 
 :Authors:
-  Michael T. Cooling (m.cooling@auckland.ac.nz)
+   Michael T. Cooling (m.cooling@auckland.ac.nz)
 
 :Contributors:
-  Randall Britten
-  
-  James R. Lawson
+   Richard Christie
 
-  Andrew K. Miller
+   David P. Nickerson
 
-  David P. Nickerson
+   Tommy Yu
 
-  Poul F. M. Nielsen
-
-  Tommy Yu
+   David Brooks
 
 **Status of this Document**
 

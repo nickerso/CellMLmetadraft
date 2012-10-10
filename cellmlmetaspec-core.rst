@@ -59,11 +59,11 @@ Realisation Strategy
 
 Annotations will be made using RDF (http://www.w3.org/RDF/) Statements. Briefly, an RDF statement has three parts, a Subject, a Predicate and an Object. The Subject of an annotation will generally be a CellML model element, and the Predicate will generally be some kind of relationship type. The Object will generally be an external entity such as an identifier for a publication, or perhaps a record in a database of known genes. The RDF statement such as that outlined above links a model element to an external entity, thereby providing an annotation. For a conceptual primer on RDF, please see the following web document http://www.w3.org/TR/rdf-primer/.As CellML is serialized as an XML document, Framework annotations will be serialized using RDF/XML (http://www.w3.org/TR/rdf-syntax-grammar/). As per RDF/XML standards, in order for the documents to be valid, namespaces for the XML attributes through which annotations are encoded will need to be declared. Specifically, a core namespace has been defined specifically to encompass annotations made in a CellML model document:
 
-==================  =====================================
-Suggested prefix    Namespace URI                        
-==================  =====================================
-cmeta 	           "http://www.cellml.org/metadata/2.0#"
-==================  =====================================
++------------------+---------------------------------------+
+| Suggested prefix | Namespace URI                         |
++==================+=======================================+
+| cmeta 	          | "http://www.cellml.org/metadata/2.0#" |
++------------------+---------------------------------------+
 
 (note the "2.0" towards the end of the Namespace URI, which pertains to the 2.0 Metadata Specification, as opposed to "cmeta" as used in the previous 1.0 Metadata Specification [http://www.cellml.org/specifications/metadata/cellml_metadata_1.0]). Additional namespaces for particular relationship types, where required, must be defined in the associated satellite specifications.
 
