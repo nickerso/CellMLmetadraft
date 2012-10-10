@@ -21,6 +21,7 @@ June 2011
 Discussion draft.
 
 **Dependencies**
+
 This specification is dependent on the CellML Core Metadata Specification 2.0.
 
 Introduction

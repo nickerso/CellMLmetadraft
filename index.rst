@@ -12,3 +12,5 @@ This is a proposal for the CellML metadata 2.0 specification written by Mike Coo
    cellmlmetaspec-core
    cellmlmetaspec-basicinfo
    cellmlmetaspec-licensing
+   cellmlmetaspec-citation
+   cellmlmetaspec-biological
