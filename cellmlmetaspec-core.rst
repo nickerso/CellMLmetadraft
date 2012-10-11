@@ -62,7 +62,7 @@ Annotations will be made using RDF (http://www.w3.org/RDF/) Statements. Briefly,
 +------------------+-----------------------------------------+
 | Suggested prefix | Namespace URI                           |
 +==================+=========================================+
-| cmeta 	          | `"http://www.cellml.org/metadata/2.0#"` |
+| cmeta            | `http://www.cellml.org/metadata/2.0#`   |
 +------------------+-----------------------------------------+
 
 (note the "2.0" towards the end of the Namespace URI, which pertains to the 2.0 Metadata Specification, as opposed to "cmeta" as used in the previous 1.0 Metadata Specification [http://www.cellml.org/specifications/metadata/cellml_metadata_1.0]). Additional namespaces for particular relationship types, where required, must be defined in the associated satellite specifications.
