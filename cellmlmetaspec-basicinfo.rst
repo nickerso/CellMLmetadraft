@@ -29,6 +29,9 @@ This specification is dependent on the CellML Core Metadata Specification 2.0.
 Introduction
 ============
 
+Andre adding some text to play with editing online with github. The rendered view available on github shows you if your
+editing works, but will look different in the final sphix pages.
+
 Regardless of the type of model encoded in a CellML model document, there are three attributes that apply:
 
 * Every model document has a creator (whether human or by some other entity or artifact). This creator may be part of an organization and recording that fact may be desirable.
